@@ -90,6 +90,7 @@ powershell, redis and lots others. Also has a good collection of IDEs for progra
 * [Website Speed Test | Pingdom](https://tools.pingdom.com/fpt/) - Feature-rich website tester
 * [Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) - Test a webpage for structured data and SEO
 * [Regulex](http://jex.im/regulex/) - JavaScript regular expression visualizer
+* [https://codeshare.io/] - Share code real-time in your browser
 
 
 ### Communication
